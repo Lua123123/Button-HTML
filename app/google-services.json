@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621505433133",
+    "project_id": "game30s",
+    "storage_bucket": "game30s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621505433133:android:59ee062975449199caf2a4",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621505433133-4muqjetpbjlh8efcdu67oef9e06g3k7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEz5im7-XN14et1IMU_3iZ-LxAUgxduc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621505433133-4muqjetpbjlh8efcdu67oef9e06g3k7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
